@@ -20,8 +20,9 @@ Evaluation and Recommendations: Summarize the campaign's effectiveness and provi
 
 ### Tools Used
 
-Gophish Phishing Simulation Tools. For conducting mock phishing attacks 
-Social Engineering using OSINT Framework  https://osintframework.com to acertain the content of im=nformation to share
+Gophish Phishing Simulation Tools: For conducting mock phishing attacks 
+
+Social Engineering using OSINT Framework https://osintframework.com to acertain the content of information to share
 
 
 ### Research and Planning:
